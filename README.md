@@ -11,8 +11,12 @@ But we expect some extra reading if you are unfamiliar with some stuff.
 
 ## Downloading this Github repository
 
-While you can download this repository as a ZIP file, we suggest you clone this repository.
-The instructions are detailed below.
+While you can use git to clone this repository, if you are not comfortable using git yet you can download this repository as a ZIP file from the top right "Code" dropdown menu button.
+Create a new folder called /finse_school and then be unzip the file, this is also where you will save the data folder from the google drive link you were provided.
+The final file structure will be ../finse_school/Finse_data_analysis
+                                                /data
+                                                
+If you wish to use git the instructions are detailed below.
 
 You need [git](https://git-scm.com/) installed on your computer. You can check whether it is installed with following command in terminal (MacOS) or console (windows).
 
