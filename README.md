@@ -31,12 +31,3 @@ For addtional preparation before the school, please go through the files in the 
 2. Introduction to map plot with JupyterLab.ipynb
 3. Introduction to data analysis with JupyterLab.ipynb
 4. Data analysis with JupyterLab.ipynb
-
-
-If you find the tutorial hard to follow. Please let us know (Qinggang Gao qino@bas.ac.uk).
-We always welcome your feedback on these materials.
-
-
-
-
-
