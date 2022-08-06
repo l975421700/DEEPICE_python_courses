@@ -1,6 +1,6 @@
-# Finse_data_analysis
+# DEEPICE python courses
 
-This repository is prepared for FINSE Winter school from 20/03/2022 to 26/03/2022.
+This repository is prepared for DEEPICE training schools.
 It is an introduction to climate data analysis with python.
 
 
@@ -25,9 +25,5 @@ Note the command started with a dollar sign is to be issued in a terminal.
     $ git clone https://github.com/l975421700/Finse_data_analysis
 
 
-For addtional preparation before the school, please go through the files in the folder 'preparation' in this repository.
+For preparation before the school, please go through the files in the folder 'preparation', and optionally the folder 'Finse_exercise'.
 
-1. python environment management with miniconda.ipynb
-2. Introduction to map plot with JupyterLab.ipynb
-3. Introduction to data analysis with JupyterLab.ipynb
-4. Data analysis with JupyterLab.ipynb
