@@ -20,8 +20,8 @@ Note the command started with a dollar sign is to be issued in a terminal.
 
 ## Preparation
 
-For students who attended Finse winter school, you need to go through the file "reproduce results of Gaursaud et al. 2021.ipynb" in the folder 'AWI_training'.
+For students who attended Finse winter school, you need to go through the file "reproduce results of Gaursaud et al. 2021.ipynb" in the folder 'preparation_for_awi_training'.
 
-For students who didn't, please go through the files in the folders 'preparation' and then 'AWI_training'
+For students who didn't, please go through the files in the folders 'preparation_for_newcomers' and then 'preparation_for_awi_training'
 
 In case of issues, feel free to contact Qinggang Gao (qino@bas.ac.uk)
